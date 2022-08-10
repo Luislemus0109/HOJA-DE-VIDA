@@ -28,8 +28,9 @@ Estoy abierto para trabajar en todos los proyectos como estos donde puedo adquir
 
 ## **Formacion Academica**
 
-`2010-2021`
-__INSTITUCION EDUCATIVA TECNICO INDUSTRIAL “BLAS TORRES DE LA TORRE”__ | BACHILLER TECNICO INDUSTRIAL EN LA ESPECIALIDAD DE METALISTERIA
+|   FECHA   |                             INSTITUCION                            |                         TITULO OTORGADO                         |
+|:---------:|:------------------------------------------------------------------:|:---------------------------------------------------------------:|
+| 2010-2021 | INSTITUCION EDUCATIVA TECNICO INDUSTRIAL “BLAS TORRES DE LA TORRE” | BACHILLER TECNICO INDUSTRIAL EN LA ESPECIALIDAD DE METALISTERIA |
 
 
 ## Cursos
